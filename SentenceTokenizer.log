@@ -1,0 +1,25 @@
+2021-02-02 03:46:27,426 DEBUG [main] o.c.l.Dictionary [Dictionary.java:28] Dictionary initialized.
+2021-02-02 03:46:27,442 DEBUG [main] o.c.e.ExporterProvider [ExporterProvider.java:24] ExporterProvider bootstraped.
+2021-02-02 03:46:27,442 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:46] Parsing - start
+2021-02-02 03:46:53,689 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:48] Parsing - input read successful, starting export: CSV
+2021-02-02 03:46:56,709 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:50] Parsing - done
+2021-02-02 03:49:31,887 DEBUG [main] o.c.l.Dictionary [Dictionary.java:28] Dictionary initialized.
+2021-02-02 03:49:31,966 DEBUG [main] o.c.e.ExporterProvider [ExporterProvider.java:24] ExporterProvider bootstraped.
+2021-02-02 03:49:31,983 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:46] Parsing - start
+2021-02-02 03:49:59,321 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:48] Parsing - input read successful, starting export: CSV
+2021-02-02 03:50:02,137 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:50] Parsing - done
+2021-02-02 03:52:20,039 DEBUG [main] o.c.l.Dictionary [Dictionary.java:28] Dictionary initialized.
+2021-02-02 03:52:20,056 DEBUG [main] o.c.e.ExporterProvider [ExporterProvider.java:24] ExporterProvider bootstraped.
+2021-02-02 03:52:20,067 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:46] Parsing - start
+2021-02-02 03:52:40,330 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:48] Parsing - input read successful, starting export: CSV
+2021-02-02 03:52:43,067 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:50] Parsing - done
+2021-02-02 03:58:44,102 DEBUG [main] o.c.l.Dictionary [Dictionary.java:28] Dictionary initialized.
+2021-02-02 03:58:44,119 DEBUG [main] o.c.e.ExporterProvider [ExporterProvider.java:24] ExporterProvider bootstraped.
+2021-02-02 03:58:44,121 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:46] Parsing - start
+2021-02-02 03:59:04,426 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:48] Parsing - input read successful, starting export: CSV
+2021-02-02 03:59:06,405 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:50] Parsing - done
+2021-02-02 04:02:37,205 DEBUG [main] o.c.l.Dictionary [Dictionary.java:28] Dictionary initialized.
+2021-02-02 04:02:37,223 DEBUG [main] o.c.e.ExporterProvider [ExporterProvider.java:24] ExporterProvider bootstraped.
+2021-02-02 04:02:37,225 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:46] Parsing - start
+2021-02-02 04:02:57,625 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:48] Parsing - input read successful, starting export: XML
+2021-02-02 04:03:01,542 DEBUG [main] o.c.p.SentenceParser [SentenceParser.java:50] Parsing - done
